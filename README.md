@@ -18,5 +18,4 @@ Web personal desarrollado con React, Node.js y MongoDB.
 - [ ] Despliegue en producción
 
 ## Próximamente
-Versión completa con sección de proyectos, 
-habilidades y formulario de contacto funcional.
+Versión completa con sección de proyectos y formulario de contacto funcional.
