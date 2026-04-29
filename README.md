@@ -14,7 +14,7 @@ Web personal desarrollado con React, Node.js y MongoDB.
 - [x] Estructura del proyecto
 - [ ] Backend con API REST
 - [ ] Conexión a MongoDB
-- [ ] Componentes React completos
+- [x] Componentes React completos
 - [ ] Despliegue en producción
 
 ## Próximamente
