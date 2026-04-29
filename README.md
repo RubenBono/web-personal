@@ -5,10 +5,9 @@
 Web personal desarrollado con React, Node.js y MongoDB.
 
 ## Stack tecnológico
-- Frontend: React
+- Frontend: React + JavaScript + HTML + CSS
 - Backend: Node.js + Express
 - Base de datos: MongoDB
-- Estilos: CSS personalizado
 
 ## Estado actual
 - [x] Estructura del proyecto
